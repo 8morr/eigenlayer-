@@ -1,1 +1,1 @@
-Metadata for Eigenlayer test node
+# Metadata for Eigenlayer test node
