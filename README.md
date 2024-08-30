@@ -1,1 +1,1 @@
-<h2>Metadata for Eigenlayer test node</h2>
+<h1>Metadata for Eigenlayer test node</h1>
